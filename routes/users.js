@@ -10,3 +10,4 @@ router.post('/register', register);
 router.get('/current', current);
 
 module.exports = router;
+console.log('router up');
